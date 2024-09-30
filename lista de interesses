@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Roupas Femininas</title>
+</head>
+<body>
+    <h1>Roupas Femininas</h1>
+    <ul>
+        <li><a href="https://www.exemplo.com/vestido-verao">Vestido de Verão</a></li>
+        <li><a href="https://www.exemplo.com/blusa-manga-longa">Blusa de Manga Longa</a></li>
+        <li><a href="https://www.exemplo.com/saia-midi">Saia Midi</a></li>
+        <li><a href="https://www.exemplo.com/calca-jeans">Calça Jeans</a></li>
+        <li><a href="https://www.exemplo.com/casaco-inverno">Casaco de Inverno</a></li>
+    </ul>
+</body>
+</html>
